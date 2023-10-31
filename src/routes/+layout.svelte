@@ -9,6 +9,9 @@
 	<li>
 		<a href="/users">User</a>
 	</li>
+	<li>
+		<a href="/komik">Komik</a>
+	</li>
 </ul>
 
 <slot />
